@@ -1,0 +1,9 @@
+{
+	"name": "ADF-DEV-PARTH1",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "942e16dd-df0b-4857-8942-0b2cd5cdb03e",
+		"tenantId": "536bd341-7d0a-4d22-ab0b-ebb9d76b9b7f"
+	}
+}
